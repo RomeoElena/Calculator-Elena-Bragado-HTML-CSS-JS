@@ -1,0 +1,16 @@
+{
+  "name": "202301-w1ch1-elena-bragado",
+  "version": "1.0.0",
+  "description": "First Challenge",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Pre-curso",
+    "ISDI",
+    "Calculator"
+  ],
+  "author": "Elena Bragado",
+  "license": "ISC"
+}
