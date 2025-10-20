@@ -26,9 +26,16 @@ function del () {
 
 function percentage() {
   try {
-    result.value = eval(result.value) / 100;
+    let value = eval(result.value);
+    if (!isNaN(value)) {
+      result.value = value / 100;
+    } else {
+      alert("No se puede calcular el porcentaje de una expresión inválida.");
+    }
   } catch (err) {
-    alert("Enter a valid expression!");
+    alert("Introduce una expresión válida.");
   }
 }
+
+
 
