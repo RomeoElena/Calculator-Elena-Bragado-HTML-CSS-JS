@@ -24,7 +24,11 @@ function del () {
 
 
 
-function percentage (number) {
-  result.value = result.value * (number / 100) ;
-    
+function percentage() {
+  try {
+    result.value = eval(result.value) / 100;
+  } catch (err) {
+    alert("Enter a valid expression!");
+  }
 }
+
