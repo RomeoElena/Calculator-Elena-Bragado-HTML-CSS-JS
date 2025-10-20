@@ -29,4 +29,6 @@ Puedes probarla directamente aquí:
 - Estilo visual claro y moderno.
 
 ---
+## ✨ Funcionalidades
+<img src="calculatorOlaf.png" alt="Vista previa de la calculadora" width="600">
 # Challenge_Week 1
