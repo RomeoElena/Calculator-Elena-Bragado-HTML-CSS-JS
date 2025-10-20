@@ -30,5 +30,5 @@ Puedes probarla directamente aquí:
 
 ---
 ## ✨ Vista previa
-<img src="calculatorOlaf.png" alt="Vista previa de la calculadora" width="600">
+<img src="calculatorOlaf.png" alt="Vista previa de la calculadora" width="400">
 # Challenge_Week 1
